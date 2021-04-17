@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chalezhang.github.io/chaleblog.github.io/</id>
     <title>Chale Blog</title>
-    <updated>2021-04-17T03:11:30.770Z</updated>
+    <updated>2021-04-17T07:39:05.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chalezhang.github.io/chaleblog.github.io/"/>
     <link rel="self" href="https://chalezhang.github.io/chaleblog.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://chalezhang.github.io/chaleblog.github.io/images/avatar.png</logo>
     <icon>https://chalezhang.github.io/chaleblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Chale Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[雍和]]></title>
+        <id>https://chalezhang.github.io/chaleblog.github.io/post/yong-he/</id>
+        <link href="https://chalezhang.github.io/chaleblog.github.io/post/yong-he/">
+        </link>
+        <updated>2021-04-17T07:11:53.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://chalezhang.github.io/chaleblog.github.io//post-images/1618643532680.JPG" alt="" loading="lazy"><br>
+😀</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://chalezhang.github.io/chaleblog.github.io/post/hello-gridea/</id>
