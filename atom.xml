@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://chaleblog.github.io/</id>
+    <id>https://chalezhang.github.io/chaleblog.github.io/</id>
     <title>Chale Blog</title>
-    <updated>2021-04-17T03:07:03.324Z</updated>
+    <updated>2021-04-17T03:10:17.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://chaleblog.github.io/"/>
-    <link rel="self" href="https://chaleblog.github.io/atom.xml"/>
+    <link rel="alternate" href="https://chalezhang.github.io/chaleblog.github.io/"/>
+    <link rel="self" href="https://chalezhang.github.io/chaleblog.github.io/atom.xml"/>
     <subtitle>Chale的摄影美学</subtitle>
-    <logo>https://chaleblog.github.io/images/avatar.png</logo>
-    <icon>https://chaleblog.github.io/favicon.ico</icon>
+    <logo>https://chalezhang.github.io/chaleblog.github.io/images/avatar.png</logo>
+    <icon>https://chalezhang.github.io/chaleblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Chale Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://chaleblog.github.io/post/hello-gridea/</id>
-        <link href="https://chaleblog.github.io/post/hello-gridea/">
+        <id>https://chalezhang.github.io/chaleblog.github.io/post/hello-gridea/</id>
+        <link href="https://chalezhang.github.io/chaleblog.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
