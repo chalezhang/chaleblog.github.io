@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaleblog.github.io/</id>
-    <title>Gridea</title>
-    <updated>2021-04-17T02:52:36.136Z</updated>
+    <title>Chale Blog</title>
+    <updated>2021-04-17T02:57:05.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaleblog.github.io/"/>
     <link rel="self" href="https://chaleblog.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Chale的摄影美学</subtitle>
     <logo>https://chaleblog.github.io/images/avatar.png</logo>
     <icon>https://chaleblog.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Chale Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://chaleblog.github.io/post/hello-gridea/</id>
